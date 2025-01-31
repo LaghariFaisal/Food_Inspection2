@@ -37,7 +37,6 @@ Research Question 4: Is it possible to predict the likelihood of the restaurant 
 2. Top 10 restaurants by Food safety
 3. Food establishment risk mapping across Chicago
 4. Comparative Risk Analysis Across Zip Codes
-5. 
 
 ---
 
